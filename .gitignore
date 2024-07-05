@@ -1,0 +1,5 @@
+#this file to put the files not needed too be seen by git 
+
+tmp/todo.txt
+#or tmp/*
+#or *.txt
