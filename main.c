@@ -33,5 +33,5 @@ int add(int a, int b)
 
 void NMI_Handler(void)
 {
-
+   printf("hello from NMI_Handler\n");
 }
